@@ -1,5 +1,4 @@
 //Name: Aaron Cohen
-//FSUID: ajc17d
 
 #include <stdio.h>
 #include <string.h>
